@@ -4,8 +4,8 @@
 	<artifactId>hw0-wenyiwan</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git://github.com/wangwy1105/hw0-wenyiwan.git</connection>
-		<developerConnection>scm:git:git://github.com/wangwy1105/hw0-wenyiwan.git</developerConnection>
+		<connection>scm:git:git@github.com:wangwy1105/hw0-wenyiwan.git</connection>
+		<developerConnection>scm:git:git@github.com:wangwy1105/hw0-wenyiwan.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
